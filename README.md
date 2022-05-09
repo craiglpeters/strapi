@@ -10,6 +10,9 @@
 <h3 align="center">API creation made simple, secure and fast.</h3>
 <p align="center">The most advanced open-source headless CMS to build powerful APIs with no effort.</p>
 <p align="center"><a href="https://strapi.io/demo">Try live demo</a></p>
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?machine=standardLinux32gb&repo=485557450&ref=main&devcontainer_path=.devcontainer%2Fdevcontainer.json)
+
 <br />
 
 <p align="center">
